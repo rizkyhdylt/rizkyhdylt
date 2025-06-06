@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Guys!! I'm Rizky Hidayatullah 👋
 
 <!--
 **rizkyhdylt/rizkyhdylt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **Jatengupdates**
+- 🌱 I’m currently learning **ReactJS** and **NodeJS**
